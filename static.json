@@ -1,0 +1,7 @@
+{
+    "root": "build/",
+    "routes": {
+        "/swap/**": "index.html",
+        "/pool/**": "index.html"
+      }
+}
